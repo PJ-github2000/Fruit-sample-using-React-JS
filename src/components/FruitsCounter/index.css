@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container{
+    background-color: #ffd569;
+    padding: 60px;
+}
+.lower-box{
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.count-title{
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: 700;
+}
+.fruit-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fruit-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mango-image{
+    height: 400px;
+    width: 200;
+}
+.mango-button{
+    background-color: burlywood;
+    color: white;
+    padding: 12px;
+    width:100px;
+    border: 0px;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 20px;
+}
+.count{
+    color: rgb(233, 233, 15);
+}
